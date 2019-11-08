@@ -1,0 +1,15 @@
+artifact_uri: file:///media/iitm/data/Surya/v3-large-v2/mlruns/0/1ca77e4d80aa4df59f6099175843d0f5/artifacts
+end_time: 1572862317509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1ca77e4d80aa4df59f6099175843d0f5
+run_uuid: 1ca77e4d80aa4df59f6099175843d0f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1572608383015
+status: 3
+tags: []
+user_id: iitm
