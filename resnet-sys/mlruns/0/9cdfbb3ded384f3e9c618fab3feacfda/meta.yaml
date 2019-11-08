@@ -1,0 +1,15 @@
+artifact_uri: file:///scratch/resnet/mlruns/0/9cdfbb3ded384f3e9c618fab3feacfda/artifacts
+end_time: 1573179204292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9cdfbb3ded384f3e9c618fab3feacfda
+run_uuid: 9cdfbb3ded384f3e9c618fab3feacfda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1572463468336
+status: 3
+tags: []
+user_id: surya
